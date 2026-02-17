@@ -9,7 +9,7 @@ Unindo a disciplina e o gerenciamento de riscos da **aviação comercial** com a
 ### 🚀 Projetos em construção:
 
 - **SefControl:** Um sistema de Gestão Aeronáutica completo (Exclusivo Web). (em construção).
-- **Monni Pizzaria:** Aplicativo mobile para gestão e pedidos. (finalizando)..
+- **Pizzaria:** Aplicativo mobile para gestão e pedidos. (finalizando)..
 - **MirrorAir:** Projeto focado em espelhamento e controle remoto. (em construção)...
 
 ---
