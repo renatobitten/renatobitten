@@ -6,11 +6,11 @@ Unindo a disciplina e o gerenciamento de riscos da **aviação comercial** com a
 
 ---
 
-### 🚀 No que estou trabalhando:
+### 🚀 Projetos em construção:
 
-- **SefControl:** Um sistema de Gestão Aeronáutica completo (Exclusivo Web).
-- **Monni Pizzaria:** Aplicativo mobile para gestão e pedidos.
-- **MirrorAir:** Projeto focado em espelhamento e controle remoto.
+- **SefControl:** Um sistema de Gestão Aeronáutica completo (Exclusivo Web). (em construção).
+- **Monni Pizzaria:** Aplicativo mobile para gestão e pedidos. (finalizando)..
+- **MirrorAir:** Projeto focado em espelhamento e controle remoto. (em construção)...
 
 ---
 
